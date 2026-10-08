@@ -1,15 +1,3 @@
-/**
- * Class of operations on integer arrays.
- * You MUST NOT change the signatures of the methods supplied. 
- */
- 
-// IN1002 Introduction to Algorithms
-// Coursework 2024/2025
-//
-// Submission by
-// Daniel Georgiev
-// dan.georgiev@city.ac.uk
-
 public class iAnalytics {
 
     
